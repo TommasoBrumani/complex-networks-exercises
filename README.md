@@ -12,3 +12,4 @@ Each of the exercises has distinct specifications, which are provided inside of 
 
 ### File Systems Structure
 * `exN`: the folder containing the code and documentation for exercise 'N'
+* `final_project`: the folder containing the code and documentation for the course's final project
